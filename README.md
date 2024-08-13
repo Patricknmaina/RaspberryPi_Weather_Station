@@ -17,3 +17,4 @@ Once the dashboard starts receiving data, plots can be developed to visualize th
 
 ![Data plots](https://github.com/maina-patrick/RaspberryPi_Weather_Station/blob/main/Images/Image%202.png "Data plots")
 
+In the software, the [Adafruit CircuitPython](https://github.com/adafruit/Adafruit_CircuitPython_DHT) library is implemented for seamless interfacing between the DHT11 sensor module and the Raspberry Pi 4. The procedure for installing and implementing the library can be found in the provided link.
