@@ -11,6 +11,9 @@ The [Thingspeak](https://thingspeak.com/) platform is an IoT platform that recei
 
 In order to connect an IoT device to the Thingspeak platform, a channel is created on Thingspeak, from which an API is generated that is included in the code to link the device to the dashboard:
 
+![Thingspeak channel](https://github.com/maina-patrick/RaspberryPi_Weather_Station/blob/main/Images/Image%201.png "Thingspeak channel")
 
 Once the dashboard starts receiving data, plots can be developed to visualize the data for the parameters, which in this case are temperature and humidity:
+
+![Data plots](https://github.com/maina-patrick/RaspberryPi_Weather_Station/blob/main/Images/Image%202.png "Data plots")
 
