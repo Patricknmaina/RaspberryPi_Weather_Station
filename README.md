@@ -4,7 +4,7 @@ The main components implemented in the project include:
 - Raspberry Pi 4
 - DHT11 sensor module
 - 16x2 LCD Display
-- Potentiometer > for adjusting the contrast on the LCD Display
+- Potentiometer -> for adjusting the contrast on the LCD Display
 - Thingspeak dashboard -> For receiving, analyzing and visualizing real-time temperature and humidity readings.
   
 The [Thingspeak](https://thingspeak.com/) platform is an IoT platform that receives data from IoT devices for analysis, visualization, and to also send alerts. 
